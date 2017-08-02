@@ -1,5 +1,5 @@
-﻿#Hello world
+﻿# Hello world
 
-##My name is LevaMerzlyak
+## My name is LevaMerzlyak
 
-![Image](https://github.com/LevaMerzlyak/hello-world-page/blob/master/images/IMG_7627small.jpg?raw=true)
+![Image](https://levamerzlyak.github.io/hello-world-page/images/IMG_7627small.jpg)
